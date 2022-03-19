@@ -6,6 +6,7 @@
 	<head>
 		<meta charset = "utf-8">
 		 <title>Music Catagories and Rankings</title>
+		 <!-- this begins the style sheet section -->
    </head>
   
   <!-- This is the header to the site -->
@@ -51,3 +52,15 @@
 	 
 	 <li>The Notorious B.I.G. - Hypnotize  </li>
 	 <p><a href = "https://www.youtube.com/watch?v=glEiPXAYE-U">Hypnotize</a></p>
+	 </ol>
+	 
+	 <h3>Country</h3>
+	 <ol>
+	  <li>David Allan Co - Perfect Country and Western Song  </li>
+	  <p><a href = "https://www.youtube.com/watch?v=jkKn5HrKgHQ">Perfect Country and Western Song</a></p>
+	  
+	  <li>Darius Rucker - Wagon Wheel  </li>
+	  <p><a href = "https://www.youtube.com/watch?v=hvKyBcCDOB4">Wagon Wheel</a></p>
+	  
+	  <li>Zac Brown Band - Chiken Fried  </li>
+	  <p><a href = "https://www.youtube.com/watch?v=hvKyBcCDOB4">Chicken Fried </a></p>
