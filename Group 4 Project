@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<!-- This is the Title For the music website-->
+
+<html>
+	<head>
+		<meta charset = "utf-8">
+		 <title>Music Catagories and Rankings</title>
+   </head>
+  
+  <!-- This is the header to the site -->
+   <body>
+    <h1> Seth and Jaden's </h1>
+<h1>	Music Catagories and Rankings </h1>
+<hr>
+</body>
+<!-- This is an unorderd list of the catagories that will have spacific songs that will be ranked-->
+<body>
+ <h2> Music Catagories</h2>
+ <ul>
+         <li>Rock</li>
+         <li>Hip-Hop</li>
+         <li>Country</li>
+		
+
+            </ul>
+			<hr>
+			</body>
+<!-- This will be The main area with the rankings of songs in the catagories-->
+<!-- songs will also be linked -->
+<body> 
+<h3> Rock </h3>
+ <ol>
+    <li>ACDC - Thunder Struck</li>
+	<p><a href = "https://www.youtube.com/watch?v=v2AC41dglnM">Thunder Struck</a></p>
+	
+	<li>Led Zeppelin - Immigrant  </li>
+	<p><a href = "https://www.youtube.com/watch?v=RlNhD0oS5pk">Immigrant</a></p>
+
+    <li>Green Day - American Idiot  </li>
+	<p><a href = "https://www.youtube.com/watch?v=Ee_uujKuJMI">American Idiot</a></p>
+	</ol>
+	<!-- This is the Hip-Hop catagories-->
+	<h3> Hip-Hop </h3>
+	<ol>
+	 <li>Eminem - Stan  </li>
+	 <p><a href = "https://www.youtube.com/watch?v=gOMhN-hfMtY">Stan</a></p>
+	 
+	 <li>Beastie - No Sleep Till Broklen  </li>
+	 <p><a href = "https://www.youtube.com/watch?v=07Y0cy-nvAg">No Sleep Till Broklen</a></p>
+	 
+	 <li>The Notorious B.I.G. - Hypnotize  </li>
+	 <p><a href = "https://www.youtube.com/watch?v=glEiPXAYE-U">Hypnotize</a></p>
