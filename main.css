@@ -1,0 +1,15 @@
+h1 {
+	text-align: center;
+}
+
+body {
+	background-color: #141d26;
+	color: #ccbfb9;
+	font-family: gill sans, sans-serif;
+	padding: 3em;
+}
+
+a {
+	color: lightblue;
+	text-decoration: none;
+}
