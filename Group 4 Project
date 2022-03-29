@@ -1,66 +1,94 @@
 <!DOCTYPE html>
 
-<!-- This is the Title For the music website-->
-
+<!--This is the title For the music website-->
 <html>
 	<head>
 		<meta charset = "utf-8">
-		 <title>Music Catagories and Rankings</title>
-		
+		 <title>Music Categories and Rankings</title>
+		 <!-- this begins the style sheet section -->
+		 <link rel="stylesheet" type="text/css" href="main.css">
    </head>
   
-  <!-- This is the header to the site -->
+  <!--This is the header to the site -->
    <body>
-    <h1> Seth and Jaden's </h1>
-<h1>	Music Catagories and Rankings </h1>
+    <h1>Seth and Jaden's</h1>
+    <h1>Music Rankings</h1>
 <hr>
-</body>
-<!-- This is an unorderd list of the catagories that will have spacific songs that will be ranked-->
-<body>
- <h2> Music Catagories</h2>
+
+<!--This is an unorderd list of the genres that will have specific songs that will be ranked-->
+ <h2>Genres</h2>
  <ul>
          <li>Rock</li>
          <li>Hip-Hop</li>
          <li>Country</li>
-		
-
             </ul>
 			<hr>
-			</body>
-<!-- This will be The main area with the rankings of songs in the catagories-->
-<!-- songs will also be linked -->
-<body> 
-<h3> Rock </h3>
+
+<!--This section will have Seth's song rankings according to genre-->
+<!--songs will also be linked -->
+<div class="seth_songlist">
+	<h2>Seth's Rankings</h2> 
+
+<!--This is the Rock genre-->
+<h3>Rock</h3>
  <ol>
     <li>ACDC - Thunder Struck</li>
 	<p><a href = "https://www.youtube.com/watch?v=v2AC41dglnM">Thunder Struck</a></p>
-	
-	<li>Led Zeppelin - Immigrant  </li>
+	<li>Led Zeppelin - Immigrant</li>
 	<p><a href = "https://www.youtube.com/watch?v=RlNhD0oS5pk">Immigrant</a></p>
-
-    <li>Green Day - American Idiot  </li>
+    <li>Green Day - American Idiot</li>
 	<p><a href = "https://www.youtube.com/watch?v=Ee_uujKuJMI">American Idiot</a></p>
 	</ol>
-	<!-- This is the Hip-Hop catagories-->
-	<h3> Hip-Hop </h3>
+
+	<!--This is the Hip-Hop genre-->
+	<h3>Hip-Hop</h3>
 	<ol>
-	 <li>Eminem - Stan  </li>
+	 <li>Eminem - Stan</li>
 	 <p><a href = "https://www.youtube.com/watch?v=gOMhN-hfMtY">Stan</a></p>
-	 
-	 <li>Beastie Boys - No Sleep Till Broklen  </li>
+	 <li>Beastie Boys - No Sleep Till Broklen</li>
 	 <p><a href = "https://www.youtube.com/watch?v=07Y0cy-nvAg">No Sleep Till Broklen</a></p>
-	 
-	 <li>The Notorious B.I.G. - Hypnotize  </li>
+	 <li>The Notorious B.I.G. - Hypnotize</li>
 	 <p><a href = "https://www.youtube.com/watch?v=glEiPXAYE-U">Hypnotize</a></p>
 	 </ol>
 	 
+	 <!--This is the Country genre-->
 	 <h3>Country</h3>
 	 <ol>
-	  <li>David Allan Co - Perfect Country and Western Song  </li>
+	  <li>David Allan Co - Perfect Country and Western Song</li>
 	  <p><a href = "https://www.youtube.com/watch?v=jkKn5HrKgHQ">Perfect Country and Western Song</a></p>
-	  
-	  <li>Darius Rucker - Wagon Wheel  </li>
+	  <li>Darius Rucker - Wagon Wheel</li>
 	  <p><a href = "https://www.youtube.com/watch?v=hvKyBcCDOB4">Wagon Wheel</a></p>
-	  
-	  <li>Zac Brown Band - Chiken Fried  </li>
-	  <p><a href = "https://www.youtube.com/watch?v=hvKyBcCDOB4">Chicken Fried </a></p>
+	  <li>Zac Brown Band - Chiken Fried</li>
+	  <p><a href = "https://www.youtube.com/watch?v=hvKyBcCDOB4">Chicken Fried</a></p>
+	</div>
+
+<!--This section will have Jaden's song list and rankings respective to their genres-->
+<div class="jaden_songlist">
+	<h2>Jaden's Rankings</h2>
+
+	<!--This is the Pop Rock genre-->
+	<h3>Pop Rock</h3>
+	<ol>
+		<li>Too Many People - Paul McCartney</li>
+			<p><a href = "https://youtu.be/y21aX98QHSc">Too Many People</a></p>
+		<li>Strawberry Fields Forever - The Beatles</li>
+			<p><a href="https://youtu.be/10LSq_J5ol4">Strawberry Fields Forever</a></p>
+		<li>Lady Stardust - David Bowie</li>
+			<p><a href="https://youtu.be/EcKZEOsgvdI">Lady Stardust</a></p>
+		<li>Little Deuce Coupe - The Beach Boys</li>
+			<p><a href="https://youtu.be/TH2MXxoQTLY">Little Deuce Coupe</a></p>
+	</ol>
+
+	<!--This is the Hip-Hop genre-->
+	<h3>Hip-Hop</h3>
+	<ol>
+		<li>Runaway - Kanye West</li>
+			<p><a href="https://youtu.be/EMnQwBTJnMM">Runaway</a></p>
+		<li>N.Y. State of Mind - Nas</li>
+			<p><a href="https://youtu.be/hI8A14Qcv68">N.Y. State of Mind</a></p>
+		<li>Electric Relaxation - A Tribe Called Quest</li>
+			<p><a href="https://youtu.be/cG_wNxi8z8o">Electric Relaxation</a></p>
+		<li>Pacifics - Digable Planets</li>
+			<p><a href="https://youtu.be/sanKBH1Hde8">Pacifics</a></p>
+	</ol>
+</div>
