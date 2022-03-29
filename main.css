@@ -13,3 +13,11 @@ a {
 	color: lightblue;
 	text-decoration: none;
 }
+
+.seth_songlist {
+	float: left;
+}
+
+.jaden_songlist {
+	float: right;
+}
