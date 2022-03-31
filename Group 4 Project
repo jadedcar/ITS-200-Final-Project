@@ -22,7 +22,13 @@
          <li>Hip-Hop</li>
          <li>Country</li>
             </ul>
-			<hr>
+			
+<hr>
+      <!-- First Paragraph area( genral reson why we picked gennres and songs.-->
+      <h3> Extra Information</h3>
+      <p> We chose these genres because they are genraly are favorit areas of music to listen to. </p>
+      <p> This also applys to the song that we Chose as Well. 
+<hr>
 
 <!--This section will have Seth's song rankings according to genre-->
 <!--songs will also be linked -->
