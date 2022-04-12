@@ -18,55 +18,57 @@
 <!--This is an unorderd list of the genres that will have specific songs that will be ranked-->
  <h2>Genres</h2>
  <ul>
-         <li>Rock</li>
-         <li>Hip-Hop</li>
-         <li>Country</li>
-            </ul>
-			
-<hr>
-      <!-- First Paragraph area( genral reson why we picked gennres and songs.-->
-      <h3> Extra Information</h3>
-      <p> We chose these genres because they are genraly are favorit areas of music to listen to. </p>
-      <p> This also applys to the song that we Chose as Well. 
+ 	<li>Rock</li>
+ 	<li>Hip-Hop</li>
+ 	<li>Country</li>
+ </ul>
 <hr>
 
-<!--This section will have Seth's song rankings according to genre-->
-<!--songs will also be linked -->
+ <!-- First Paragraph Section -->
+ <h3>Extra Information</h3>
+ 	<p> We chose these genres because they are generally our favorite areas of music to listen to. </p>
+   <p> This also applies to the songs that we chose as well. 
+<hr>
+
+
+<!--This section contains Seth's song rankings according to genre-->
+<!--songs and song covers will be linked-->
 <div class="seth_songlist">
 	<h2>Seth's Rankings</h2> 
 
 <!--This is the Rock genre-->
-<h3>Rock</h3>
- <ol>
-    <li>ACDC - Thunder Struck</li>
-	<p><a href = "https://www.youtube.com/watch?v=v2AC41dglnM">Thunder Struck</a></p>
-	<li>Led Zeppelin - Immigrant</li>
-	<p><a href = "https://www.youtube.com/watch?v=RlNhD0oS5pk">Immigrant</a></p>
-    <li>Green Day - American Idiot</li>
-	<p><a href = "https://www.youtube.com/watch?v=Ee_uujKuJMI">American Idiot</a></p>
+	<h3>Rock</h3>
+	<ol>
+   	<li><p><a href = "https://www.youtube.com/watch?v=v2AC41dglnM">Thunder Struck | ACDC</a></p></li>
+   	<img src="thunderstruck.jpeg" alt="Thunder Struck">
+		<li><p><a href = "https://www.youtube.com/watch?v=RlNhD0oS5pk">Immigrant | Led Zeppelin</a></p></li>
+		<img src="immigrant_song.jpeg" alt="Immigrant">
+   	<li><p><a href = "https://www.youtube.com/watch?v=Ee_uujKuJMI">American Idiot | Green Day</a></p></li>
+   	<img src="american_idiot.jpeg" alt="American Idiot">
 	</ol>
 
 	<!--This is the Hip-Hop genre-->
 	<h3>Hip-Hop</h3>
 	<ol>
-	 <li>Eminem - Stan</li>
-	 <p><a href = "https://www.youtube.com/watch?v=gOMhN-hfMtY">Stan</a></p>
-	 <li>Beastie Boys - No Sleep Till Broklen</li>
-	 <p><a href = "https://www.youtube.com/watch?v=07Y0cy-nvAg">No Sleep Till Broklen</a></p>
-	 <li>The Notorious B.I.G. - Hypnotize</li>
-	 <p><a href = "https://www.youtube.com/watch?v=glEiPXAYE-U">Hypnotize</a></p>
-	 </ol>
+		<li><p><a href = "https://www.youtube.com/watch?v=gOMhN-hfMtY">Stan | Eminem</a></p></li>
+		<img src="eminem_stan.webp" alt="Stan">
+		<li><p><a href = "https://www.youtube.com/watch?v=07Y0cy-nvAg">No Sleep Till Brooklyn | Beastie Boys</a></p></li>
+		<img src="beastie_boys.jpeg" alt="No Sleep Till Brooklyn">
+		<li><p><a href = "https://www.youtube.com/watch?v=glEiPXAYE-U">Hypnotize | The Notorious B.I.G.</a></p></li>
+		<img src="hypnotize.png" alt="Hypnotize">
+	</ol>
 	 
-	 <!--This is the Country genre-->
-	 <h3>Country</h3>
-	 <ol>
-	  <li>David Allan Co - Perfect Country and Western Song</li>
-	  <p><a href = "https://www.youtube.com/watch?v=jkKn5HrKgHQ">Perfect Country and Western Song</a></p>
-	  <li>Darius Rucker - Wagon Wheel</li>
-	  <p><a href = "https://www.youtube.com/watch?v=hvKyBcCDOB4">Wagon Wheel</a></p>
-	  <li>Zac Brown Band - Chiken Fried</li>
-	  <p><a href = "https://www.youtube.com/watch?v=hvKyBcCDOB4">Chicken Fried</a></p>
-	</div>
+	<!--This is the Country genre-->
+	<h3>Country</h3>
+	<ol>
+		<li><p><a href = "https://www.youtube.com/watch?v=jkKn5HrKgHQ">Perfect Country and Western Song | David Allan Coe</a></p></li>
+		<img src="westernsong.jpeg" alt="Perfect Country and Western Song">
+		<li><p><a href = "https://www.youtube.com/watch?v=hvKyBcCDOB4">Wagon Wheel | Darius Rucker</a></p></li>
+		<img src="truebelievers.jpg" alt="Wagon Wheel">
+	  	<li><p><a href = "https://www.youtube.com/watch?v=hvKyBcCDOB4">Chicken Fried | Zac Brown Band</a></p></li>
+	  	<img src="thefoundation.jpg" alt="Chicken Fried">
+	</ol>
+</div>
 
 <!--This section will have Jaden's song list and rankings respective to their genres-->
 <div class="jaden_songlist">
@@ -75,28 +77,34 @@
 	<!--This is the Pop Rock genre-->
 	<h3>Pop Rock</h3>
 	<ol>
-		<li>Too Many People - Paul McCartney</li>
-			<p><a href = "https://youtu.be/y21aX98QHSc">Too Many People</a></p>
-		<li>Strawberry Fields Forever - The Beatles</li>
-			<p><a href="https://youtu.be/10LSq_J5ol4">Strawberry Fields Forever</a></p>
-		<li>Lady Stardust - David Bowie</li>
-			<p><a href="https://youtu.be/EcKZEOsgvdI">Lady Stardust</a></p>
-		<li>Little Deuce Coupe - The Beach Boys</li>
-			<p><a href="https://youtu.be/TH2MXxoQTLY">Little Deuce Coupe</a></p>
+		<li><p><a href = "https://youtu.be/y21aX98QHSc">Too Many People | Paul McCartney</a></p></li>
+		<img src="ram.jpg" alt="Too Many People">
+		<li><p><a href="https://youtu.be/10LSq_J5ol4">Strawberry Fields Forever | The Beatles</a></p></li>
+		<img src="strawberryfields.jpg" alt="Strawberry Fields Forever">
+		<li><p><a href="https://youtu.be/EcKZEOsgvdI">Lady Stardust | David Bowie</a></p></li>
+		<img src="stardust.jpg" alt="Lady Stardust">
+		<li><p><a href="https://youtu.be/TH2MXxoQTLY">Little Deuce Coupe | The Beach Boys</a></p></li>
+		<img src="surfergirl.jpg" alt="Little Deuce Coupe">
 	</ol>
 
 	<!--This is the Hip-Hop genre-->
 	<h3>Hip-Hop</h3>
 	<ol>
-		<li>Runaway - Kanye West</li>
-			<p><a href="https://youtu.be/EMnQwBTJnMM">Runaway</a></p>
-		<li>N.Y. State of Mind - Nas</li>
-			<p><a href="https://youtu.be/hI8A14Qcv68">N.Y. State of Mind</a></p>
-		<li>Electric Relaxation - A Tribe Called Quest</li>
-			<p><a href="https://youtu.be/cG_wNxi8z8o">Electric Relaxation</a></p>
-		<li>Pacifics - Digable Planets</li>
-			<p><a href="https://youtu.be/sanKBH1Hde8">Pacifics</a></p>
+		<li><p><a href="https://youtu.be/EMnQwBTJnMM">Runaway | Kanye West</a></p></li>
+		<img src="runaway.jpeg" alt="Runaway">
+		<li><p><a href="https://youtu.be/hI8A14Qcv68">N.Y. State of Mind | Nas</a></p></li>
+		<img src="illmatic.jpg" alt="N.Y. State of Mind">
+		<li><p><a href="https://youtu.be/cG_wNxi8z8o">Electric Relaxation | A Tribe Called Quest</a></p></li>
+		<img src="lowendtheory.jpg" alt="Electric Relaxation">
+		<li><p><a href="https://youtu.be/sanKBH1Hde8">Pacifics | Digable Planets</a></p></li>
+		<img src="pacific.jpg" alt="Pacifics">
 	</ol>
-	<p> This list is ment to Show our oppinon of these songs ans what we think of them. </p>
-	<p>Please listen to these songs through the links or on,your favorit music streaming sites.</p>
+	<!-- Second Paragraph Section -->
+	<p> This list is meant to show our opinon of these songs and what we think of them. Please listen to these songs through the links provided or on your favorite music streaming platforms :)</p>
 </div>
+
+<!--Website Reference List
+	https://www.freecodecamp.org/news/html-div-what-is-a-div-tag-and-how-to-style-it-with-css/
+	http://www.simplehtmlguide.com/divisions.php
+	https://learn.shayhowe.com/html-css/positioning-content/
+	https://www.w3schools.com/tags/tag_div.asp-->
