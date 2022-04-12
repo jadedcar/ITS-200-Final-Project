@@ -1,11 +1,12 @@
 <html>
    <head><title>Using the var Keyword</title>
 		</head>
-
+//this changed background color
   <body bgcolor="white">
    		
 		<script type = "text/javascript">
-  <!-- 
+  // This asks the person the favorite songs and then prints them.
+ <!-- 
     var favorite1Song;
     var favorite2Song;
     var favorite3Song;
