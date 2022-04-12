@@ -2,7 +2,7 @@
    <head><title>Using the var Keyword</title>
 		</head>
 
-  <body bgcolor="black">
+  <body bgcolor="white">
    		
 		<script type = "text/javascript">
   <!-- 
