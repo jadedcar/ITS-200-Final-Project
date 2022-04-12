@@ -1,7 +1,9 @@
+/* This is the formatting for h1 (our title at the top of the page) */
 h1 {
 	text-align: center;
 }
 
+/* This sections provides a color and font to the body text and also sets a padding limit */
 body {
 	background-color: #141d26;
 	color: #ccbfb9;
@@ -9,15 +11,26 @@ body {
 	padding: 3em;
 }
 
+/* This section sets a color and removes the underline characteristic for all hyperlinks in the website */
 a {
 	color: lightblue;
 	text-decoration: none;
 }
 
+/* Below are the two main div sections of the website and their characteristics aimed to improve */
+/* their respective positioning */
 .seth_songlist {
 	float: left;
+	width: 50%;
 }
 
 .jaden_songlist {
 	float: right;
+	width: 50%;
+}
+
+/* This section specifies the dimensions to which each image can be */
+img {
+	max-width: 200px;
+	max-height: 200px;
 }
