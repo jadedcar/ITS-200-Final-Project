@@ -1,31 +1,9 @@
-<html>
-   <head><title>Using the var Keyword</title>
-		</head>
-//this changed background color
-  <body bgcolor="white">
-   		
-		<script type = "text/javascript">
-  // This asks the person the favorite songs and then prints them.
- <!-- 
-    var favorite1Song;
-    var favorite2Song;
-    var favorite3Song;
-   
- favorite1Song = prompt("Please enter first favorite song: ");
- favorite2Song = prompt("Please enter second favorite song:");
- favorite3Song = prompt("Please enter third favorite song: ");
- 
+alert("Welcome to Seth and Jaden's music ranking website!")
 
+var name;
 
+name = prompt("Please enter your name: ");
 
-  document.write("Favorite Song list: ");
-  document.write(favorite1Song);
-  document.write(favorite2Song);
-  document.write(favorite3Song);
- //-->
-</script>
-
-
-	</body>
-
-</html>
+document.writeln("Welcome");
+document.write(name)
+document.write("!")
